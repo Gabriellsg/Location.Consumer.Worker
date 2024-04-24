@@ -29,6 +29,6 @@ internal static class Program
 
             })
             .Build()
-            .RunAsync();
+            .Run();
     }
 }
